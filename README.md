@@ -1,11 +1,11 @@
-# ProgrammingBooks
-Некоторые книги по программированию, рекомендуемые к прочтению.
+# HiringBooks
+Некоторые книги и мануалы по HR и рекрутингу, рекомендуемые к прочтению.
 
 Книги в формате PDF находятся в папках соответствующих разделов.
 
-## Содержание:
+## Содержание
 
-*Recruiting Tools*
+*Recruiting Tools:*
 
 **- [Talent Hero - 130+ Recruiting Tools. The complete list](/RecruitingTools/Tools-for-Recruiters-v2.pdf)**
 

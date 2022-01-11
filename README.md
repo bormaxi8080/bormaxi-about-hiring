@@ -124,11 +124,11 @@ Buffer - удобный способ публикации новых сообщ�
 
 *Интересные утилиты для рекрутинга*
 
-- [Talent Hero - 130+ Recruiting Tools. The complete list](/Content/RecruitingTools/Tools-for-Recruiters-v2.pdf)
+- [Talent Hero - 130+ Recruiting Tools. The complete list](/content/recruiting-tools/Tools-for-Recruiters-v2.pdf)
 
 *Поиск работы*
 
-- [Максим Черенков - Поиск работы в 50 лет: руководство для специалиста высокой квалификации](/Content/JobSearch/Cherenkov_Job_After_50_Overqualified.pdf)
+- [Максим Черенков - Поиск работы в 50 лет: руководство для специалиста высокой квалификации](/content/job-search/Cherenkov_Job_After_50_Overqualified.pdf)
 
 *Прочее*
 

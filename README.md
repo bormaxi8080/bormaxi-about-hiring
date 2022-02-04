@@ -227,26 +227,22 @@
 
 ## А как оно устроено за рубежом?
 ## Пандемия. Удаленка
-![alt text](./content/images/qr.jpeg "С QR и без QR")
+![alt text](./content/images/qr.jpeg "С QR кодом и без")
 
 - Почему малый бизнес и аутсорс в России уже мертв
 - Что делать если вашему найму приходит конец
 - Точечный найм
+
 ## Двадцать пятая волна пандемии, или что будет с нами и с наймом в будущем
 
 ## Интересные страницы в соцсетях:
-
-CandyJar - Sourcing Tool, помогающий найти программистов и IT специалистов: https://www.facebook.com/candyjar.hr/
+- [CandyJar](https://www.facebook.com/candyjar.hr/), Sourcing Tool, помогающий найти программистов и IT специалистов
 
 ## Полезные сервисы:
-
-LinkedHelper - автоматизация работы в LinkedIn: https://www.linkedhelper.com/
-
-GMS Tech - сервис подбора разработчиков, очень классная альтернатива HeadHunter и прочим
-
-BOOL - Boolean Search Assistant: https://chrome.google.com/webstore/detail/bool-boolean-search-assis/cfpmoigmhcehoegokjllchipdiindpkc
-
-Buffer - удобный способ публикации новых сообщений в социальных сетях Twitter, Facebook, LinkedIn и многих других: https://chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh
+- [LinkedHelper](https://www.linkedhelper.com/), автоматизация работы в LinkedIn
+- [GMS Tech](https://gms.tech/), сервис подбора разработчиков, очень классная альтернатива HeadHunter и прочим
+- [BOOL](https://chrome.google.com/webstore/detail/bool-boolean-search-assis/cfpmoigmhcehoegokjllchipdiindpkc), Boolean Search Assistant
+- [Buffer](https://chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh), удобный способ публикации новых сообщений в социальных сетях Twitter, Facebook, LinkedIn и многих других
 
 ## Некоторые ссылки, книги и мануалы по HR и рекрутингу, рекомендуемые к прочтению.
 
@@ -257,11 +253,11 @@ Buffer - удобный способ публикации новых сообщ�
 ### Найм
 
 - [Блог HuntFlow про сорсинг](https://huntflow.ru/blog/sourcing/)
-- 
+
 - Рекрутинг в LinkedIn - советы от HuntFlow:
-> Часть 1: https://huntflow.ru/blog/linkedin-part1/?utm_source=facebook-huntflow&utm_medium=social_post&utm_campaign=linkedin-part1
->
-> Часть 2: https://huntflow.ru/blog/linkedin-part2/?utm_source=facebook-huntflow&utm_medium=social_post&utm_campaign=linkedin-part2
+> - [Часть 1](https://huntflow.ru/blog/linkedin-part1/?utm_source=facebook-huntflow&utm_medium=social_post&utm_campaign=linkedin-part1)
+> 
+> - [Часть 2](https://huntflow.ru/blog/linkedin-part2/?utm_source=facebook-huntflow&utm_medium=social_post&utm_campaign=linkedin-part2)
 
 ### Социальные сети. Создание и работа с онлайн коммьюнити
 
@@ -271,7 +267,7 @@ Buffer - удобный способ публикации новых сообщ�
 
 ### Поиск работы
 
-- [Максим Черенков - Поиск работы в 50 лет: руководство для специалиста высокой квалификации](/content/job-search/Cherenkov_Job_After_50_Overqualified.pdf)
+- [Максим Черенков - Поиск работы в 50 лет: руководство для специалиста высокой квалификации](./content/job-search/Cherenkov_Job_After_50_Overqualified.pdf)
 
 ### Прочее
 
